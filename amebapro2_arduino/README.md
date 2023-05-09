@@ -30,7 +30,7 @@
 
     Copy and paste the following link into the field and click "OK",
 
-    https://github.com/ideashatch/HUB-8735/raw/main/amebapro2_arduino/Arduino_package/ideasHatch.json
+    https://github.com/amigomcu/HUB-8735/raw/main/amebapro2_arduino/Arduino_package/ideasHatch.json
 
     > We also suggest to enable "Show verbose output" options on "compilation" and "upload" in Preference for easier debugging.
     
